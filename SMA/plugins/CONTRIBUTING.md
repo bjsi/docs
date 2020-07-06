@@ -10,14 +10,28 @@
     + You can search my repositories...
     + You can also find links to GitHub repositories directly from SuperMemoAssistant by checking the plugin's settings page.
 2. Select the Issues tab for the repository.
-3. *ESSENTIAL*: Search the issues to make sure that your idea or issue hasn't already been submitted.
-4. If you're unable to find an open issue, click on New Issue to open a new one:
+3. **IMPORTANT**: Search the issues to make sure that your idea or issue hasn't already been submitted.
+4. If there isn't already an open issue, click on New Issue to create one:
 5. Fill out the provided Issue template.
 6. Hit Submit new issue.
 
 ### Code Contributions
 
-Isolate individual issues into separate Pull Requests.
+If you need help, get in touch with me on the SMA discord.
+
+#### Pull Requests
+
+> Keep PRs small and focused on one issue / feature.
+
+#### Step-by-step Guide
+
+1. Fork the repository.
+2. Clone the forked repository.
+3. Create a new branch to hold your changes:
+    `git checkout -b new-feature`
+4. After making your changes, push them to GitHub:
+    `git push -u origin new-feature`
+5. Submit a PR with your changes.
 
 ## General Requests, Ideas and Suggestions
 
