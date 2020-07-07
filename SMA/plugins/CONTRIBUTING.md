@@ -26,13 +26,15 @@ If you need help, get in touch with me on the SMA discord.
 #### Step-by-step Guide
 
 1. Fork the repository.
-2. Clone the forked repository.
+2. Clone your fork of the repository.
 3. Create a new branch to hold your changes:
     `git checkout -b new-feature`
-4. After making your changes, push them to GitHub:
+4. Make your changes.
+    > Note: SuperMemoAssistant has fantastic debugging support.
+5. After making your changes, push them up to GitHub:
     `git push -u origin new-feature`
-5. Submit a PR with your changes.
+6. Submit a PR with your changes.
 
 ## General Requests, Ideas and Suggestions
 
-For more general requests that aren't tied to a particular plugin, you can get in touch with me by sending an email to ... or via my website's contact form.
+For more general requests that aren't related to a particular plugin, you can get in touch with me by sending an email to ... or via my website's contact form.
